@@ -1,0 +1,21 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "OOP - Team Profile Generator",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.4.3"
+    }
+  }
+  
